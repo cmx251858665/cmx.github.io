@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>六玥丶</title>
+  
+  <subtitle>记录生活中的点点滴滴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://cmx251858665.github.io/"/>
+  <updated>2020-06-04T09:39:59.735Z</updated>
+  <id>https://cmx251858665.github.io/</id>
+  
+  <author>
+    <name>六玥丶</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello-world</title>
+    <link href="https://cmx251858665.github.io/2020/03/28/hello-world/"/>
+    <id>https://cmx251858665.github.io/2020/03/28/hello-world/</id>
+    <published>2020-03-28T14:17:43.868Z</published>
+    <updated>2020-06-04T09:39:59.735Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="打手动阀"><a href="#打手动阀" class="headerlink" title="打手动阀"></a>打手动阀</h2><p>达到</p><ol><li>对方水电费 sddfsd</li><li>对方水电费</li><li>打算订购</li><li>gas 大佛</li></ol><blockquote><p>引用的话</p></blockquote><p><img src="/Users/caimengxin/Documents/2019/%E6%AF%95%E8%AE%BE%E6%96%87%E6%9C%AC/jpg%E6%A0%BC%E5%BC%8F/0-%E5%B0%81%E9%9D%A2.jpg" alt=""></p><p><code>![图片名称](图片路径)</code></p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">let</span> arr = [];</span><br><span class="line">arr = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>];</span><br></pre></td></tr></table></figure><a id="more"></a><p><a href="www.baidu.com">百度</a></p><p><a href="www.taobao.com">哈哈</a></p><table><thead><tr><th>分类</th><th>结构</th><th>答</th><th>发到</th><th>发哦大家</th><th>发到</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p><code>npm install -g vue@cli</code></p><blockquote><p>22121</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">    大黄蜂哈</span><br><span class="line">  <span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h1&gt;&lt;h2 id=&quot;打手动阀&quot;&gt;&lt;a href=&quot;#打手动阀&quot; class=&quot;headerlink&quot; title=&quot;打手动阀&quot;&gt;&lt;/a&gt;打手动阀&lt;/h2&gt;&lt;p&gt;达到&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;对方水电费 sddfsd&lt;/li&gt;
+&lt;li&gt;对方水电费&lt;/li&gt;
+&lt;li&gt;打算订购&lt;/li&gt;
+&lt;li&gt;gas 大佛&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用的话&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/Users/caimengxin/Documents/2019/%E6%AF%95%E8%AE%BE%E6%96%87%E6%9C%AC/jpg%E6%A0%BC%E5%BC%8F/0-%E5%B0%81%E9%9D%A2.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;![图片名称](图片路径)&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; arr = [];&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;arr = [&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;, &lt;span class=&quot;number&quot;&gt;2&lt;/span&gt;, &lt;span class=&quot;number&quot;&gt;3&lt;/span&gt;, &lt;span class=&quot;number&quot;&gt;4&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
