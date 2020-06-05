@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cmx251858665.github.io/"/>
-  <updated>2020-06-04T09:39:59.735Z</updated>
+  <updated>2020-06-05T02:50:14.628Z</updated>
   <id>https://cmx251858665.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello-world</title>
-    <link href="https://cmx251858665.github.io/2020/03/28/hello-world/"/>
-    <id>https://cmx251858665.github.io/2020/03/28/hello-world/</id>
-    <published>2020-03-28T14:17:43.868Z</published>
-    <updated>2020-06-04T09:39:59.735Z</updated>
+    <title>about</title>
+    <link href="https://cmx251858665.github.io/2020/06/25/WebSocket%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://cmx251858665.github.io/2020/06/25/WebSocket%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-06-25T11:16:17.000Z</published>
+    <updated>2020-06-05T02:50:14.628Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="dsfsdfs-哈哈"><a href="#dsfsdfs-哈哈" class="headerlink" title="dsfsdfs 哈哈"></a>dsfsdfs 哈哈</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;dsfsdfs-哈哈&quot;&gt;&lt;a href=&quot;#dsfsdfs-哈哈&quot; class=&quot;headerlink&quot; title=&quot;dsfsdfs 哈哈&quot;&gt;&lt;/a&gt;dsfsdfs 哈哈&lt;/h3&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="WebSocket" scheme="https://cmx251858665.github.io/categories/WebSocket/"/>
+    
+    
+      <category term="WebSocket" scheme="https://cmx251858665.github.io/tags/WebSocket/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://cmx251858665.github.io/2019/06/25/hello-world/"/>
+    <id>https://cmx251858665.github.io/2019/06/25/hello-world/</id>
+    <published>2019-06-25T11:16:17.000Z</published>
+    <updated>2020-06-05T02:48:48.951Z</updated>
     
     <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="打手动阀"><a href="#打手动阀" class="headerlink" title="打手动阀"></a>打手动阀</h2><p>达到</p><ol><li>对方水电费 sddfsd</li><li>对方水电费</li><li>打算订购</li><li>gas 大佛</li></ol><blockquote><p>引用的话</p></blockquote><p><img src="/Users/caimengxin/Documents/2019/%E6%AF%95%E8%AE%BE%E6%96%87%E6%9C%AC/jpg%E6%A0%BC%E5%BC%8F/0-%E5%B0%81%E9%9D%A2.jpg" alt=""></p><p><code>![图片名称](图片路径)</code></p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">let</span> arr = [];</span><br><span class="line">arr = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>];</span><br></pre></td></tr></table></figure><a id="more"></a><p><a href="www.baidu.com">百度</a></p><p><a href="www.taobao.com">哈哈</a></p><table><thead><tr><th>分类</th><th>结构</th><th>答</th><th>发到</th><th>发哦大家</th><th>发到</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p><code>npm install -g vue@cli</code></p><blockquote><p>22121</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">    大黄蜂哈</span><br><span class="line">  <span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
     
@@ -44,6 +70,10 @@
     </summary>
     
     
+      <category term="web前端" scheme="https://cmx251858665.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="test" scheme="https://cmx251858665.github.io/tags/test/"/>
     
   </entry>
   

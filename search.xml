@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello-world</title>
-    <url>/2020/03/28/hello-world/</url>
+    <title>about</title>
+    <url>/2019/06/25/hello-world/</url>
     <content><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="打手动阀"><a href="#打手动阀" class="headerlink" title="打手动阀"></a>打手动阀</h2><p>达到</p>
 <ol>
 <li>对方水电费 sddfsd</li>
@@ -55,5 +55,22 @@
 </blockquote>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">    大黄蜂哈</span><br><span class="line">  <span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
 ]]></content>
+      <categories>
+        <category>web前端</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>/2020/06/25/WebSocket%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h3 id="dsfsdfs-哈哈"><a href="#dsfsdfs-哈哈" class="headerlink" title="dsfsdfs 哈哈"></a>dsfsdfs 哈哈</h3>]]></content>
+      <categories>
+        <category>WebSocket</category>
+      </categories>
+      <tags>
+        <tag>WebSocket</tag>
+      </tags>
   </entry>
 </search>
